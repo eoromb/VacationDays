@@ -1,0 +1,9 @@
+{
+  "employees": [
+    {
+      "name": "Hans Muller",
+      "dateOfBirth": "1950.12.01",
+      "startDate": "01.01.1949"
+    }
+  ]
+}

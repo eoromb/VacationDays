@@ -1,0 +1,22 @@
+{
+  "name": "vacationdays",
+  "version": "1.0.0",
+  "description": "Application for counting employee vacation days",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha -w"
+  },
+  "author": "Evgenii Romb",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.6.3",
+    "joi": "^14.0.6",
+    "joi-date-extensions": "^1.2.0",
+    "moment": "^2.22.2",
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}

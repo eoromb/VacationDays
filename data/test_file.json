@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "name": "Hans Muller",
+      "dateOfBirth": "30.12.1950",
+      "startDate": "01.01.2001"
+    },
+    {
+      "name": "Ang Fringe",
+      "dateOfBirth": "09.06.1966",
+      "startDate": "15.01.2001"
+    },
+    {
+      "name": "Peter Clever",
+      "dateOfBirth": "12.07.1991",
+      "startDate": "15.05.2016",
+      "specialContract": {
+        "vacationDays": 27
+      }
+    },
+    {
+      "name": "Marina Helter",
+      "dateOfBirth": "26.01.1970",
+      "startDate": "15.01.2018"
+    },
+    {
+      "name": "Sepp Meier",
+      "dateOfBirth": "23.05.1980",
+      "startDate": "01.12.2017"
+    }
+  ]
+}
